@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1> Hi there 👋 I am Hanzla Masood </h1>
 </div>
 
