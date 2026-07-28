@@ -13,7 +13,6 @@
 
 <a href="https://t.me/HanzlaMasood"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&labelColor=white"></a>
 <a href="mailto:your.email@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&labelColor=white"></a>
-<a href="https://linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=white"></a>
 
 ### 🛠️ Languages and Tools:
 
