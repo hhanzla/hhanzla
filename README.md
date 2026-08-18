@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I recently transitioned from Kotlin/Android to the magical world of Web & Electron!
 
 ### 📫 Let's Connect
-<a href="mailto:hello@hanzlamasood.qzz.io"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&labelColor=red"></a>
+<a href="mailto:hello@hanzlamasood.me"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&labelColor=red"></a>
 <a href="https://www.linkedin.com/in/hanzlamasood/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
 
 ### 🛠️ Languages and Tools:
